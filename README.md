@@ -1,4 +1,4 @@
-# FCLC Introduction to Video Game Design Syllabus
+# SVA Game Design Fundamentals Syllabus
 
 **Course Code:** CISC 2540
 **Schedule:** Tuesdays and Fridays, 1:00 - 2:15 PM
